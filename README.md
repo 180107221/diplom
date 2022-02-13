@@ -32,7 +32,7 @@ We will have following pages:
 
 ## User Personas
 *Write description of user personas here*  
-- occupation - Student
++ occupation - Student
 - age - 16-22
 - gender - female/male
 - location - Kazakhstan
