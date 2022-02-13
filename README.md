@@ -32,17 +32,17 @@ We will have following pages:
 
 ## User Personas
 *Write description of user personas here*  
-+ occupation - Student
-- age - 16-22
-- gender - female/male
-- location - Kazakhstan
-- education - studies
-
-- occupation - Teacher
-- age - 25-55
-- gender - female/male
-- location - Kazakhstan
-- education - Bachelor, Master, PhD
+* occupation - Student
+* age - 16-22
+* gender - female/male
+* location - Kazakhstan
+* education - studies
+--
+* occupation - Teacher
+* age - 25-55
+* gender - female/male
+* location - Kazakhstan
+* education - Bachelor, Master, PhD
 
 ## User stories
 
