@@ -31,7 +31,6 @@ We will have following pages:
 * What is the product vision?
 
 ## User Personas
-*Write description of user personas here*  
 * occupation - Student
 * age - 16-22
 * gender - female/male
@@ -45,8 +44,6 @@ We will have following pages:
 * education - Bachelor, Master, PhD
 
 ## User stories
-
-*Write your user stories here*
 As a student, I want to see tasks and subtasks, check them off, and keep track of my progress.
 ##
 As a teacher, I want to create classes, add students to them, and check their work.
