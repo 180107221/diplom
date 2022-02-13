@@ -2,7 +2,7 @@
 ## Team members
 + **Magzhan Kozhakhmet** (*180107221*)- Backend Developer (GitHub account: *180107221*)
 + **Aray Turgyn** (*180107210*) - Analytic, assistant of Project Manager (GitHub account: *//*)
-+ **Aigerim Mazhtay** (*180107115*) - Project Manager (GitHub account: *aykeriya*)
++ **Aigerim Mazhtay** (*180107115*) - Project Manager (GitHub account: *//*)
 + **Saida Seitzhan** (*180107055*) - UI/UX designer (GitHub account: *//*)
 
 ## Project
