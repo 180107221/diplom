@@ -6,7 +6,11 @@
 + **Saida Seitzhan** (*180107055*) - UI/UX designer (GitHub account: *//*)
 
 ## Project
-This project is yet-another clone of Instagram
+The project in order to monitor the progress of students, it turns out there is a teacher and his students.
+
+Students can open tasks, under tasks, mark what they have completed.
+
+Teachers can create classes and add students there.
 
 ## Alternatives / Market research
 | Research alternatives
