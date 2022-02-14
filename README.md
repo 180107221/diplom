@@ -14,7 +14,7 @@ This project is yet-another clone of Instagram
 ## Goals
 
 ## Technologies
-In our project we use **Laravel**, **VueJS**
+In our project we use **JS**, **PHP**, **Phyton**, **MySQL**
 
 ## Pages / Activities 
 We will have following pages:
